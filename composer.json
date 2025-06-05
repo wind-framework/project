@@ -1,5 +1,12 @@
 {
-    "name": "wind-framework/example",
+    "name": "wind-framework/project",
+    "type": "project",
+    "description": "The skeleton application for the wind framework.",
+    "keywords": [
+        "wind",
+        "framework",
+        "coroutine"
+    ],
     "require": {
         "php": ">=8.1",
         "wind-framework/collector": "^1.0",
